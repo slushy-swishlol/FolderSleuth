@@ -1,0 +1,13 @@
+C:\Users\Slushy\source\repos\FolderSleuth\FolderSleuth\bin\Debug\netcoreapp3.1\FolderSleuth.exe
+C:\Users\Slushy\source\repos\FolderSleuth\FolderSleuth\bin\Debug\netcoreapp3.1\FolderSleuth.deps.json
+C:\Users\Slushy\source\repos\FolderSleuth\FolderSleuth\bin\Debug\netcoreapp3.1\FolderSleuth.runtimeconfig.json
+C:\Users\Slushy\source\repos\FolderSleuth\FolderSleuth\bin\Debug\netcoreapp3.1\FolderSleuth.runtimeconfig.dev.json
+C:\Users\Slushy\source\repos\FolderSleuth\FolderSleuth\bin\Debug\netcoreapp3.1\FolderSleuth.dll
+C:\Users\Slushy\source\repos\FolderSleuth\FolderSleuth\bin\Debug\netcoreapp3.1\FolderSleuth.pdb
+C:\Users\Slushy\source\repos\FolderSleuth\FolderSleuth\obj\Debug\netcoreapp3.1\FolderSleuth.csprojAssemblyReference.cache
+C:\Users\Slushy\source\repos\FolderSleuth\FolderSleuth\obj\Debug\netcoreapp3.1\FolderSleuth.csproj.CoreCompileInputs.cache
+C:\Users\Slushy\source\repos\FolderSleuth\FolderSleuth\obj\Debug\netcoreapp3.1\FolderSleuth.AssemblyInfoInputs.cache
+C:\Users\Slushy\source\repos\FolderSleuth\FolderSleuth\obj\Debug\netcoreapp3.1\FolderSleuth.AssemblyInfo.cs
+C:\Users\Slushy\source\repos\FolderSleuth\FolderSleuth\obj\Debug\netcoreapp3.1\FolderSleuth.dll
+C:\Users\Slushy\source\repos\FolderSleuth\FolderSleuth\obj\Debug\netcoreapp3.1\FolderSleuth.pdb
+C:\Users\Slushy\source\repos\FolderSleuth\FolderSleuth\obj\Debug\netcoreapp3.1\FolderSleuth.genruntimeconfig.cache
